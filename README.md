@@ -1,2 +1,3 @@
 # Projeto-3
-O terceiro projeto abordar temas como, ex: Criar e enviar solicitações à API via Postman; Criar relatórios de bug Ler a documentação da API; Criar os primeiros testes de API
+
+<p>Acesse a <a href="https://docs.google.com/spreadsheets/d/1CXkQIXI89bAOlgOy0wzwllYWWo3wDcJ2/edit?usp=sharing&ouid=106279002743150233755&rtpof=true&sd=true">planilha Google Sheets aqui</a>.</p>
